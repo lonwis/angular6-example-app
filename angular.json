@@ -72,7 +72,7 @@
               "vendorChunk": false,
               "buildOptimizer": true,
               "serviceWorker": true,
-              "baseHref": "/",
+              "baseHref": "/dist/",
               "fileReplacements": [
                 {
                   "replace": "src/environments/environment.ts",
